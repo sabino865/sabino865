@@ -1,5 +1,6 @@
 ## Olá, sou o Sabino
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabino865)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 Atualmente sou estudante/freelancer em analise e otimização de maquinas(dicas/suporte)
 - 🌱 Estudando
